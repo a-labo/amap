@@ -88,6 +88,28 @@ co(function * () {
 
 <!-- Section from "doc/guides/02.Usage.md.hbs" End -->
 
+<!-- Section from "doc/guides/03.Signature.md.hbs" Start -->
+
+<a name="section-doc-guides-03-signature-md"></a>
+
+Signature
+---------
+
+`amap(filename, options) -> Promise`
+
+### Params
+
+| Name | Type | Description |
+| ----- | --- | -------- |
+| filename | string | Filename to extract |
+| options | Object | Optional settings |
+| options.dest | string | Path to save file (which has no longer contains sourcemap) |
+| options.map | string | Path to save sourcemap file |
+
+
+
+<!-- Section from "doc/guides/03.Signature.md.hbs" End -->
+
 
 <!-- Sections Start -->
 
