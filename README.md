@@ -130,6 +130,8 @@ This software is released under the [MIT License](https://github.com/a-labo/amap
 Links
 ------
 
++ [a-labo][a_labo_url]
 
+[a_labo_url]: https://github.com/a-labo
 
 <!-- Links End -->
