@@ -29,7 +29,7 @@
     "filedel": "^2.0.4"
   },
   "devDependencies": {
-    "abrowserify": "^1.1.6",
+    "abrowserify": "^1.1.7",
     "amocha": "^1.0.14",
     "ape-doc": "^2.0.4",
     "ape-formatting": "^1.0.2",
