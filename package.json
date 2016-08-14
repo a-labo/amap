@@ -1,6 +1,6 @@
 {
   "name": "amap",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Extract inline source map to another file",
   "main": "lib",
   "scripts": {
